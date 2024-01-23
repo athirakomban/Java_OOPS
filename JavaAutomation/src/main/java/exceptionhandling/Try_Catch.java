@@ -9,11 +9,11 @@ public class Try_Catch {
 		int a=10/0;
 		System.out.println(a);
 		}
-		/*catch(ArithmeticException e)
+		catch(ArithmeticException e)
 		{
 			System.out.println(e);
 			System.out.println("unchecked exception");
-		}*/
+		}
 		/*catch(Exception e)
 		{
 			System.out.println(e);
